@@ -1,6 +1,10 @@
  XorCrypto
 =======
 可以简单的用异或加密string
+### 使用
+```go
+go get github.com/BelieveR44/XorCrypto
+```
 ### 简介
 简单的Url参数加密
 ```go
